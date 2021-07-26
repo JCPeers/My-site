@@ -1,0 +1,55 @@
+body {
+  background-color:#C6B4CE;
+  text-align: center;
+
+}
+
+h1 {
+margin-top: 50px;
+font-family: 'Dancing Script', cursive;
+font-size: 4em;
+}
+
+h2 {
+font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  font-size:20px;
+}
+
+
+/*
+.top {
+  background-color:#D83A56;
+}
+*/
+.hospitality {
+  height:100px;
+  padding: 20px;
+  width: 100px;
+}
+.heart_rate {
+  height:110px;
+  padding: 20px;
+  width: 110px;
+}
+
+.middle {
+
+}
+
+.bottom {
+
+}
+
+.top_cloud{
+  position: absolute;
+    right: 425px;
+    top: 10px;
+}
+
+.bottom_cloud{
+  position: absolute;
+  left: 470px;
+}
