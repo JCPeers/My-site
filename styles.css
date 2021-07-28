@@ -31,26 +31,41 @@ color: #11999E;
   background-color:#D83A56;
 }
 */
-.hospitality {
-  height:100px;
-  margin-top: 20px;
-  width: 100px;
+.bottom {
     }
-.heart_rate {
-  height:110px;
-  margin-top: 20px;
-  width: 110px;
-  }
+.bottom_cloud {
+  position: absolute;
+  left: 470px;
+    }
 .growth {
   height:100px;
   margin-top: 20px;
-  width: 100px;S
-  }
+  width: 100px;
+      }
+.hospitality {
+    border-radius: 100%;
+    height: 100px;
+    margin-top:20px;
+    width: 100px;
+        }
 
+.heart_rate {
+    height:110px;
+    margin-top: 20px;
+    width: 110px;
+    }
 .middle {
+    }
+.programmer {
+line-height: 4;
+font-weight: normal;
 }
 
-.bottom {
+
+.skill-row, {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
 }
 
 .top_cloud{
@@ -59,12 +74,8 @@ color: #11999E;
     top: 10px;
 }
 
-.bottom_cloud{
-  position: absolute;
-  left: 470px;
-}
-
-.programmer {
-line-height: 4;
-font-weight: normal;
+.yoga {
+  height:120px;
+  margin-top: 20px;
+  width: 120px;
 }
