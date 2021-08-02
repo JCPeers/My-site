@@ -38,6 +38,11 @@ hr {
 
 a {
   font-family: 'Open Sans', sans-serif;
+  color: #583D72
+}
+
+a:hover {
+  color: #FF8E71;
 }
 
 /*
@@ -77,6 +82,17 @@ a {
   padding-top: 50px;
 }
 
+.footer-bottom {
+  font-size: 1rem;
+  color: #FF8E71;
+}
+
+.footer-link {
+  margin: 20px 10px;
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+}
+
 .growth {
   height: 100px;
   margin-top: 10px;
@@ -102,6 +118,7 @@ a {
 
 .hospitality_1 {
   width: 60%;
+  padding-bottom: 30px;
 }
 
 .image-wrapper {
